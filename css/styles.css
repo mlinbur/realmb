@@ -4050,6 +4050,12 @@ textarea.form-control-lg {
   align-items: center;
   justify-content: space-between;
 }
+.navbar-brand img {
+  display:none;
+}
+.navbar-brand img.light {
+  display:inline-block;
+}
 .navbar-brand {
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
